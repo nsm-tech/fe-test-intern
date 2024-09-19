@@ -1,6 +1,6 @@
 const TodoAdd = () => {
   return (
-    <div className="flex justify-between mb-8">
+    <div className="flex justify-between mb-5">
       <div className="border-2 border-teal-300 p-2 rounded-lg w-full">
         <input
           type="text"
